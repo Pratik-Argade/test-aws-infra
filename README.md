@@ -1,2 +1,3 @@
-# build-AWS-resources(module)
-creating the VPC, subnet,ec2-instance and RDS database with the help of terraform modules.
+# AWS small project
+#create a VPC,subnet and gateways and ec2 to host a website on aws.
+
